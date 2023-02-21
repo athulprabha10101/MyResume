@@ -940,7 +940,7 @@ section {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
-.testimonials .section-header {
+.fials .section-header {
   margin-bottom: 40px;
 }
 
@@ -1146,6 +1146,9 @@ section {
 
 .contact .php-email-form button[type=submit]:hover {
   background: #0678e3;
+}
+.contact{
+  margin-top: 200px;
 }
 
 @-webkit-keyframes animate-loading {
